@@ -1,6 +1,5 @@
 import 'package:dio_api/model/postmodel.dart';
 import 'package:get/get.dart';
-
 import '../services/post_service.dart';
 
 class PostController extends GetxController {
